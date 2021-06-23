@@ -1,6 +1,6 @@
 <p>This project uses this reference <a href="https://www.tensorflow.org/recommenders?hl=en">https://www.tensorflow.org/recommenders?hl=en</a> to make recommandation books for an user using <font color='red'>building deep</font> retrieval models.</p>
 
-<h1>The dataset</h1>
+<h1>Introduction</h1>
 
 <p>The Books dataset is a classic dataset from kaggle page. It contains a set of ratings given to books by a set of users, and is a workhorse of recommender system research.</p>
 <p>The data can be treated in the following way:</p>
