@@ -13,7 +13,6 @@
 
 <ol>
 <li>clone the github repository:<br><code>git clone https://github.com/khasaad/Recommendation_books_engine_using_tensorFlow.git </code></li>
-<li>create a new virtual environment, with <strong>Python</strong>.</li>
 <li><code>pip install -r requirements.txt</code></li>
 </ol>
  
