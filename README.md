@@ -8,4 +8,12 @@
 <p>This is a form of explicit feedback: given that a user read a book, we can tell roughly how much they liked by looking at the rating they have given.</p>
 <p>In this project, we are focusing on a retrieval system: a model that predicts a set of books from the catalogue that the user is likely to read by looking at the rating another users have given.</p>
 <p>In this project, we will illustrate how to build deep retrieval models using TensorFlow Recommenders.</p>
+
+# Implementation steps
+
+<ol>
+<li>clone the github repository:<br><code>git clone </code></li>
+<li>create a new virtual environment, with <strong>Python</strong>.</li>
+<li><code>pip install -r requirements.txt</code></li>
+</ol>
  
