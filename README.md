@@ -15,4 +15,12 @@
 <li>clone the github repository:<br><code>git clone https://github.com/khasaad/Recommendation_books_engine_using_tensorFlow.git </code></li>
 <li><code>pip install -r requirements.txt</code></li>
 </ol>
+
+# Conclusion
+
+<p>The best accuracy was with one layer. We note whenever we increment one layer, the accuracy decrement, but when we add number of epochs the accuracy increment.</p>
+
+<p>The deeper and larger models, while capable of superior performance, often require very careful tuning.</p>
+
+<p>With appropriate tuning and sufficient data, the effort put into building larger and deeper models is in many cases well worth it: larger models can lead to substantial improvements in prediction accuracy.</p>
  
